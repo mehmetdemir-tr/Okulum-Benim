@@ -1,0 +1,23 @@
+# Gradle
+.gradle/
+build/
+
+# Kotlin
+.kotlin/
+
+# Rust
+target/
+
+# Python
+__pycache__/
+*.pyc
+
+# Android / IDE
+local.properties
+.cxx/
+
+# OpenCode / araç oturum verileri
+.omo/
+
+# Geçici arşivler
+*.zip
